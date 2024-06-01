@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+=============================================================================================================
+
+Release 1 (MVP):
+
+-------- Implementaciones USUARIO ----------------
+
+29/05/2024 23:35 hrs :
+El sitio ya cuenta con un SIDEBAR dónde se despliegan las categorias disponibles en el Quiosco de Comida (US1).
+
+------- Implementaciones ADMIN -------------------
+
+30/05/2024 16:23 hrs:
+Según la Categoría seleccionada se muestran los productos pertenecientes a esa Categoría junto con una imagen del Producto (US5).
