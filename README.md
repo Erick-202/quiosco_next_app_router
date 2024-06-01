@@ -37,14 +37,19 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 =============================================================================================================
 
-Release 1 (MVP):
+Release 1 (MVP): --------------------------------------------------------------------------------------------
 
--------- Implementaciones USUARIO ----------------
-
-29/05/2024 23:35 hrs :
+29/05/2024 23:35 hrs (USUARIO) :
 El sitio ya cuenta con un SIDEBAR dónde se despliegan las categorias disponibles en el Quiosco de Comida (US1).
 
-------- Implementaciones ADMIN -------------------
-
-30/05/2024 16:23 hrs:
+30/05/2024 16:23 hrs (ADMIN):
 Según la Categoría seleccionada se muestran los productos pertenecientes a esa Categoría junto con una imagen del Producto (US5).
+
+01/06/2024 09:54 hrs (USUARIO) :
+Se implementó que al dar clic en un producto se agregue a mi carrito. Se pueden agregar,
+eliminar y modificar cantidades de cada producto y se muestra un subtotal (US2).
+
+01/06/2024 10:56 hrs (USUARIO):
+Ya se puede ver un resumen de productos, cantidades, subtotales y total a pagar del carrito de un Uusario. (US3)
+
+
