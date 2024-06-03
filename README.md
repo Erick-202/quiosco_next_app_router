@@ -53,3 +53,15 @@ eliminar y modificar cantidades de cada producto y se muestra un subtotal (US2).
 Ya se puede ver un resumen de productos, cantidades, subtotales y total a pagar del carrito de un Uusario. (US3)
 
 
+Release 2 (MVP): --------------------------------------------------------------------------------------------
+
+02/06/2024 18:33 hrs (ADMIN):
+Ahora se pueden realizar pedidos de varias cantidades de distintos productos ingresando el nombre del cliente
+antes de confirmar el pedido (US8).
+
+02/06/2024 20:56 hrs (ADMIN):
+Se implementó el tablero del administrador que permite visualizar en tarjetas individuales los datos de cada pedido (productos, cantidades, total y nombre del cliente) para su elaboración en la cocina (US9).
+
+02/06/2024 23:10 hrs (ADMIN):
+En las tarjetas que muestran cada pedido se agregó un botón que permite marcar como completado un pedido y elimina la tarjeta del tablero (US10).
+
