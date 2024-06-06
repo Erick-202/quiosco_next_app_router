@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 =============================================================================================================
 
-Release 1 (MVP): --------------------------------------------------------------------------------------------
+Release 1 : --------------------------------------------------------------------------------------------
 
 29/05/2024 23:35 hrs (USUARIO) :
 El sitio ya cuenta con un SIDEBAR dónde se despliegan las categorias disponibles en el Quiosco de Comida (US1).
@@ -53,7 +53,7 @@ eliminar y modificar cantidades de cada producto y se muestra un subtotal (US2).
 Ya se puede ver un resumen de productos, cantidades, subtotales y total a pagar del carrito de un Uusario. (US3)
 
 
-Release 2 (MVP): --------------------------------------------------------------------------------------------
+Release 2 : --------------------------------------------------------------------------------------------
 
 02/06/2024 18:33 hrs (ADMIN):
 Ahora se pueden realizar pedidos de varias cantidades de distintos productos ingresando el nombre del cliente
@@ -65,3 +65,13 @@ Se implementó el tablero del administrador que permite visualizar en tarjetas i
 02/06/2024 23:10 hrs (ADMIN):
 En las tarjetas que muestran cada pedido se agregó un botón que permite marcar como completado un pedido y elimina la tarjeta del tablero (US10).
 
+
+Release 3 : --------------------------------------------------------------------------------------------
+
+04/06/2024 19:23 hrs (ADMIN):
+Ya es Funcional el CRUD de los productos permitiendo agregar, modificar el nombre, precio, categoria e imagen de cada producto. 
+También la interfaz para agregar/modificar la imagen de un producto es de tipo drag and drop (US6 y US7) .
+
+05/06/2024  23:42 hrs (USUARIO):
+Se agregó un panel que permite ver las ordenes que ya fueron preparadas y estan listas para recogerse. Así el usuario
+puede estar enterado del status de su pedido. (US4)

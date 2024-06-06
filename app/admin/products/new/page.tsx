@@ -1,7 +1,18 @@
-import React from "react";
+import AddProductForm from "@/components/products/AddProductForm";
+import ProductForm from "@/components/products/ProductForm";
+import GoBackButton from "@/components/ui/GoBackButton";
+import Heading from "@/components/ui/Heading";
 
-console.log("Desde el servidor");
+export default function CreateProductPage(){
+  return (
+    <>
+      <Heading>Nuevo Producto</Heading>
 
-export default function CreateProductPag() {
-  return <div>CreateProductPag</div>;
-}
+      <GoBackButton />
+    
+      <AddProductForm>
+        <ProductForm />
+      
+      </AddProductForm>
+    </> 
+    )}
